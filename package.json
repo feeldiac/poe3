@@ -1,0 +1,16 @@
+{
+  "name": "poe3",
+  "version": "1.0.0",
+  "description": "Exquisite poetry made by me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fernando Díaz <feeldiac@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "poe3": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
